@@ -1,0 +1,30 @@
+body{
+    background:#333;
+}
+.btn{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+    color:#fff;
+    background-color: crimson;
+    border-color: #333;    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+    border-color: #333;
+    cursor: pointer;
+    border-radius: 80px;
+}
+h1{
+    text-align: center;
+    color:#fff; 
+    font-size: 6vw;  
+}
+h3{
+    text-align: center;
+    color:#fff;
+    font-size: 3vw;
+}
